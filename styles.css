@@ -10,7 +10,9 @@ body {
 nav {
   border: 1px solid black;
 }
-a {
+.menu {
+  margin: 0 auto;
+  margin-left: 40em;
 }
 .movil {
   width: 100px;
@@ -44,6 +46,8 @@ header {
 .caja2 {
   background-color: white;
   margin: 0 auto;
+  
+        }
 }
 .caja3 {
   background-color: white;
