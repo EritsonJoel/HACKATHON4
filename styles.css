@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  width: 100%;
+  min-height: 200vh;
+  background: mediumorchid;
+}
+nav {
+  border: 1px solid black;
+}
+a {
+}
+.movil {
+  width: 100px;
+  height: 200px;
+  background: cornflowerblue;
+
+  position: relative;
+}
+
+.movil1 {
+  position: absolute;
+  right: 2em;
+  top: 1em;
+  margin-left: 4px;
+}
+header {
+  border: 1px solid black;
+}
+
+.caja {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+.caja1 {
+  background-color: white;
+
+  left: 400px;
+  top: 100px;
+}
+.caja2 {
+  background-color: white;
+  margin: 0 auto;
+}
+.caja3 {
+  background-color: white;
+  bottom: 200px;
+  left: 800px;
+}
+
+.formulario {
+  width: 20%;
+  height: 100px;
+  position: relative;
+}
+.formulario1 {
+  background-color: white;
+  left: 55em;
+}
+.formulario2 {
+  background-color: white;
+  margin: 0 auto;
+  bottom: 6em;
+}
+.mo {
+  width: 200px;
+  height: 300px;
+  margin-left: 60em;
+}
+.movil2 {
+  width: 100px;
+  height: 200px;
+  background: cornflowerblue;
+}
